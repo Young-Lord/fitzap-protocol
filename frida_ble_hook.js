@@ -1,4 +1,5 @@
 // MIT License, https://github.com/optiv/blemon
+// for hooking BLE data of official Android app. Root & Frida required.
 
 if (Java.available) {
     console.log("Android!")
